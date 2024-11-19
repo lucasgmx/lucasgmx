@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/c14fbade-e7ae-495e-a291-ac3094621274" alt="Profile Image" style="width:20%;">
+
 ## 👋 Hi, I'm Lucas Marques!
 
 Welcome to my GitHub! I'm an **Embedded Systems Engineer** with a decade of experience in **R&D for robotics** and **software solutions**. I’m passionate about creating innovative technologies and expanding my expertise in **software development**.
