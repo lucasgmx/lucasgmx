@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm an **Embedded Systems Engineer** with a decade of expe
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Highlights
